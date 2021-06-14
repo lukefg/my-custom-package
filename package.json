@@ -1,0 +1,8 @@
+{
+    "name": "org.lukege.my-custom-package",
+    "version": "0.1.1-pre",
+    "description": "The description field.",
+    "displayName": "Luke's Custom Package",
+    "unity": "2020.1",
+    "author": "Luke Georgette"
+}
