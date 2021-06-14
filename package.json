@@ -1,6 +1,6 @@
 {
     "name": "org.lukege.my-custom-package",
-    "version": "1.2.3-exp",
+    "version": "1.2.3-master-1d3a5f",
     "description": "The description field.",
     "displayName": "Luke's Custom Package",
     "unity": "2020.1",
